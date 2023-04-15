@@ -1,0 +1,12 @@
+{
+    "name": "moduleimage/path",
+    "description": "this is image crud",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Moduleimage\\Path\\": "src/"
+        }
+    },
+    "require": {}
+}
